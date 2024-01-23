@@ -1,4 +1,10 @@
-<!-- ### Hi there 👋
+## Hi there 👋, My name is Amrit Giri.👨‍💻
+---
+### 🌱 I’m currently learning anything that is related to software development, cybersecurity.
+
+
+📫 How to reach me: amritgiri5813@gmail.com
+
 
 <!--
 **amritgiri/amritgiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
