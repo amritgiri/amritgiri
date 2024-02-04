@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Backend Technologies**
 
-- 📝 I sometimes write articles on [http://giriamrit.com.np](http://giriamrit.com.np)
+- 📝 I sometimes write blogs on [http://giriamrit.com.np](http://giriamrit.com.np)
 
 - 💬 Ask me about **Python, Django, Cybersecurity, and Databases**
 
