@@ -17,10 +17,10 @@
 
   <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/giriamrit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giriamrit" height="30" width="40" /></a>
-<a href="https://instagram.com/amrit___giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amrit___giri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/giriamrit" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giriamrit" height="30" width="40" /></a>
+<a href="https://instagram.com/amrit___giri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amrit___giri" height="30" width="40" /></a>
 <!-- <a href="https://www.youtube.com/c/amritgiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amritgiri" height="30" width="40" /></a> -->
-<a href="https://discord.gg/giriamrit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="giriamrit" height="30" width="40" /></a>
+<a href="https://discord.gg/giriamrit" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="giriamrit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
