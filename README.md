@@ -9,7 +9,7 @@
 -->
 - 🔭 I’m currently studying **Bachelor of Electronics and Information Engineering**
 
-- 🌱 I’m currently learning **Backend Technologies**
+- 🌱 I’m currently learning **Web security**
 
 - 📝 I sometimes write blogs on [http://blog.giriamrit.com.np](http://blog.giriamrit.com.np)
 
