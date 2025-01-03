@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Web security**
 
-- 📝 I sometimes write blogs on [http://blog.giriamrit.com.np](http://blog.giriamrit.com.np)
-
 - 💬 Ask me about **Python, Django, Cybersecurity, and Databases**
 
   <h3 align="left">Connect with me:</h3>
