@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/amritgiri/amritgiri/blob/main/github-contribution-grid-snake.svg)](https://giriamrit.com.np)
 
-<h1 align="center">Hi 👋, I'm Amrit Giri (0xzerobyte)</h1>
+<h1 align="center">Hi 👋, I'm Amrit Giri</h1>
 
 <h3 align="center">A passionate learner and IT engineer student gathering ideas on different tools and technologies.</h3>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
